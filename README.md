@@ -20,7 +20,7 @@ Please refer to [GETTING_STARTED.md](docs/GETTING_STARTED.md) to learn more usag
 
 - [x] Support inference and pre-trained model 
 
-- [x] Support training code on Waymo -> KITTI task
+- [x] Support training code on NuScenes -> KITTI task
 
 - [x] Update to OpenPCDet v0.3.0 version.
   
