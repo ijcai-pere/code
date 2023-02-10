@@ -1,6 +1,0 @@
-numpy
-torch>=1.1
-numba
-tensorboardX
-easydict
-pyyaml
