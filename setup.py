@@ -43,8 +43,6 @@ if __name__ == '__main__':
             'easydict',
             'pyyaml'
         ],
-        author='Shaoshuai Shi',
-        author_email='shaoshuaics@gmail.com',
         license='Apache License 2.0',
         packages=find_packages(exclude=['tools', 'data', 'output']),
         cmdclass={'build_ext': BuildExtension},
